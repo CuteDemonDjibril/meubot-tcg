@@ -256,4 +256,4 @@ async def finalizar_partida(ctx, vencedor: discord.User, perdedor: discord.User)
 async def on_ready():
     print(f"🤖 Bot {bot.user.name} online e pronto para os duelos!")
 
-bot.run("MTU0NjIyNDk3NTE5ODAyNzg4MQ.G-19gJ.u2j3X3bRaFcRP22doPRVCJ-XYo4xOicEiwD1d4")
+bot.run("DISCORD-TOKEN")
